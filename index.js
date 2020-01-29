@@ -4,3 +4,4 @@ console.log('mais qualquer coisa');
 
 console.log('mais qualquer coisa denovo');
 
+console.log('pull');
